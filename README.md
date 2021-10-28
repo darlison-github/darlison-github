@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Darlison Barbosa
 
 - 🔭 Por enquanto apenas estudo.
-- 🌱 Estudando SpringToolSuite4 
+- 🌱 Estudando Java
 - 📫 Contate-me no e-mail: darlison-henrique@hotmail.com
 - 📫 Contate-me pelo número pessoal: (81)98421-9404
 - 😄 Objetivo: Estudar -> Trabalhar -> Casar -> Filhos
