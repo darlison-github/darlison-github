@@ -1,4 +1,4 @@
-### Olá! Eu sou o Darlison Barbosa
+### Sou o Darlison Barbosa
 
 - 🔭 Por enquanto apenas estudo.
 - 🌱 Estudando Java
